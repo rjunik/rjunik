@@ -5,7 +5,7 @@
 Nazywam sie Remigiusz Junik. Z wykształcenia jestem technikiem pojazdów samochodowych. Swoje zainteresowanie testowaniem rozpocząłem od 
 przeczytania ksiązki o testingu, które mnie zafascynowało. Obecną wiedzę w testowaniu nabywałem poprzez kursy, szkolenia, webinary, blogi czy ksiązki.
 Moim celem jest zdobycie doświadczenia komercyjnego w testowaniu, które przyczyni się do mojego rozwoju jako tester. 
-W tym portfolio przedstawiam swoje umiejetności i wiedzę jaką do tej pory uzyskałem.
+W tym portfolio przedstawiam swoje umiejętności i wiedzę jaką do tej pory uzyskałem.
 
 
 ## Tools
