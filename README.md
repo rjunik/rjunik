@@ -33,7 +33,6 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  - Tworzenie przypadków testowych
  - Zgłaszanie błędów i ficzerów
  - Testowanie oprogramowania
- - Tworzenie checklist, diagramów i tabel decyzyjnych
 
  ## Przykłady przypadków testowych
  - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
@@ -63,12 +62,12 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  
  ### Blogi
  
- - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
  - [testerzy.pl](https://testerzy.pl/baza-AC)
  - [testuj.pl](https://testuj.pl/blog/)
- 
+ - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+
  ### Webinary
  
- - Capgemini - "Techniki testowania"
- - ŁuczniczQA 
- - HTML & CSS
+ - Capgemini - Techniki testowania
+ - ŁuczniczQA - Meetupy
+ - GoIT - Maraton HTML i CSS
