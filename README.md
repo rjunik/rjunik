@@ -35,6 +35,9 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  - Testowanie oprogramowania
  - Tworzenie checklist, diagramów i tabel decyzyjnych
 
+ ## Przykłady przypadków testowych
+ - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
+
 ## Nauka 
 ### Kursy
 
