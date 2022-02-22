@@ -34,8 +34,9 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  - Zgłaszanie błędów i ficzerów
  - Testowanie oprogramowania
 
- ## Przykłady przypadków testowych
+ ## :point_right: Moje Projekty 
  - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
+ - [Moja strona www](https://rjunik.github.io/hello-world-website/index.html) + [Repozytorium](https://github.com/rjunik/hello-world-website)
 
 ## Nauka 
 ### Kursy
