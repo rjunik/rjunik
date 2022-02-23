@@ -9,36 +9,39 @@ Przygodę z testowaniem  rozpocząłem od przeczytania książki "Podróż przez
 Moim celem jest zdobycie doświadczenia komercyjnego, rozwinięcie się jako tester manualny, a w przyszłości również jako tester automatyczny.
 W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz narzędzia, z których korzystałem.
 
+ ## :point_right: Moje Projekty 
 
-## Narzędzia
-
- - [Jira](https://www.atlassian.com/) - System do śledzenia błędów, organizacji pracy i zarządzania projektami
- - [Postman](https://www.postman.com/) - Klient API używany do tworzenia, testowania, udostępniania i dokumentowania interfejsów API
- - [Git](https://git-scm.com/) - System kontroli wersji	
- - [Gitlab](https://about.gitlab.com/)/[Github](https://github.com/) - Repozytorium przechowujące kod
- - [Testlink](https://www.testlink.org/) - System do zarządzania testami, przechowywania dokumentacji testerskiej, wykonywania testów, tworzenia przypadków testowych i planu testów
- - [Browserstack](https://www.browserstack.com/) - Zdalne testowanie aplikacji na różnych urządzeniach oraz środowiskach
- - [Jmeter](https://jmeter.apache.org/) - Narzędzie do testowania obciążenia, analizy i pomiaru wydajności stron/aplikacji webowych 
- - [OwaspZap](https://www.zaproxy.org/) -Skaner bezpieczeństwa stron/aplikacji, wskazujący błędy i luki bezpieczeństwa
- - [Charles](https://www.charlesproxy.com/) - Narzędzie debugujące proxy, monitorujące ruch sieciowy HTTP/HTTPS pomiędzy klientem a serwerami
- - [ShareX](https://getsharex.com/) - Narzędzie do wykonywania zrzutów ekranu
- - [ScreenToGif](https://www.screentogif.com/) - Narzędzie do tworzenia gifów
- - GoFullPage, ColorZilla, FontNinja, Jsonviwer, PerfectPixel - Wtyczki do przeglądarek internetowych pomocne testerowi
+ - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
+ - [Moja strona www](https://rjunik.github.io/hello-world-website/index.html) + [Repozytorium](https://github.com/rjunik/hello-world-website)
 
 ## Umiejętności
 
  - SQL
  - HTML & CSS
- - Chrome DevTools
  - Tworzenie przypadków testowych
  - Zgłaszanie błędów i ficzerów
  - Testowanie oprogramowania
+ - Znajomość SCRUM
 
- ## :point_right: Moje Projekty 
- - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
- - [Moja strona www](https://rjunik.github.io/hello-world-website/index.html) + [Repozytorium](https://github.com/rjunik/hello-world-website)
+## Narzędzia
+
+ - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - narzędzie deweloperskie o wielu funkcjach, między innymi: pomagające analizować kod, sprawdzać logi z błędami strony, analizować ruch sieciowy dla strony, analizować sprawność strony przy pomocy Lighthouse, czyścić cache
+ - [Jira](https://www.atlassian.com/) - System do śledzenia błędów, organizacji pracy i zarządzania projektami
+ - [Postman](https://www.postman.com/) - Klient API używany do tworzenia, testowania, udostępniania i dokumentowania interfejsów API
+ - [Git](https://git-scm.com/) - System kontroli wersji	
+ - [GitLab](https://about.gitlab.com/)/[GitHub](https://github.com/) - Repozytorium przechowujące kod
+ - [TestLink](https://www.testlink.org/) - System do zarządzania testami, przechowywania dokumentacji testerskiej, wykonywania testów, tworzenia przypadków testowych i planu testów
+ - [Browserstack](https://www.browserstack.com/) - Zdalne testowanie aplikacji na różnych urządzeniach oraz środowiskach
+ - [Jmeter](https://jmeter.apache.org/) - Narzędzie do testowania obciążenia, analizy i pomiaru wydajności stron/aplikacji webowych 
+ - [OwaspZap](https://www.zaproxy.org/) - Skaner bezpieczeństwa stron/aplikacji, wskazujący błędy i luki bezpieczeństwa
+ - [Charles](https://www.charlesproxy.com/) - Narzędzie debugujące proxy, monitorujące ruch sieciowy HTTP/HTTPS pomiędzy klientem a serwerami
+ - [Visual Studio Code](https://code.visualstudio.com/) - Narzędzie do edycji kodu
+ - [ShareX](https://getsharex.com/) - Narzędzie do wykonywania zrzutów ekranu
+ - [ScreenToGif](https://www.screentogif.com/) - Narzędzie do tworzenia gifów
+ - GoFullPage, ColorZilla, FontNinja, Jsonviwer, PerfectPixel - Wtyczki do przeglądarek internetowych pomocne testerowi
 
 ## Nauka 
+
 ### Kursy
 
  - [MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
