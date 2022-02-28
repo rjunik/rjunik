@@ -9,11 +9,12 @@ Przygodę z testowaniem  rozpocząłem od przeczytania książki "Podróż przez
 Moim celem jest zdobycie doświadczenia komercyjnego, rozwinięcie się jako tester manualny, a w przyszłości również jako tester automatyczny.
 W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz narzędzia, z których korzystałem.
 
- ## :point_right: Moje Projekty 
+ ## :point_right: Moje Projekty :point_left:
 
- - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true) - w trakcie
+ - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true)
+ - [Przykłady zgłoszenia bugów na przykładzie strony Empik](https://docs.google.com/document/d/1rDzZ2peQdMfmouGc_6kUxUKYAZGen7tOVp3qaIaZjVQ/edit?usp=sharing) 
  - [Moja strona www](https://rjunik.github.io/hello-world-website/index.html) + [Repozytorium](https://github.com/rjunik/hello-world-website)
-
+ 
 ## Umiejętności
 
  - SQL
@@ -22,6 +23,7 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  - Zgłaszanie błędów i ficzerów
  - Testowanie oprogramowania
  - Znajomość SCRUM
+ - Znajomość REST API
 
 ## Narzędzia
 
