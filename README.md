@@ -12,7 +12,8 @@ W tym portfolio przedstawiam umiejętności, jakie do tej pory zdobyłem, oraz n
  ## :point_right: Moje Projekty :point_left:
 
  - [Przypadki testowe na przykładzie strony Empik](https://docs.google.com/spreadsheets/d/1Gt-RHsbK7RDqwJ-oyebmhWVDBhEDoqEN/edit?usp=sharing&ouid=109553043353072274561&rtpof=true&sd=true)
- - [Przykłady zgłoszenia bugów na przykładzie strony Empik](https://docs.google.com/document/d/1rDzZ2peQdMfmouGc_6kUxUKYAZGen7tOVp3qaIaZjVQ/edit?usp=sharing) 
+ - [Zgłoszenia bugów na przykładzie strony Empik](https://docs.google.com/document/d/1rDzZ2peQdMfmouGc_6kUxUKYAZGen7tOVp3qaIaZjVQ/edit?usp=sharing) 
+ - [Selektory CSS dla elementów strony Empik](https://docs.google.com/document/d/1rQ3jx_eVMIBxul-EGVNGJG44Vqp2DJuqU1oNH2vLRdk/edit?usp=sharing)
  - [Moja strona www](https://rjunik.github.io/hello-world-website/index.html) + [Repozytorium](https://github.com/rjunik/hello-world-website)
  
 ## Umiejętności
